@@ -35,7 +35,24 @@ I save Transformer images result. This folder contains Training, Validation, Tes
 https://drive.google.com/file/d/1COzbyzNmx2hpUTht_WL1yI8FfzL7S4_p/view?usp=sharing
 ```
 
-## 5 Models
+## 5. Encoder-Decoder Model Result Images
+
+I saved Encoder-Decoder images result. This folder contains Training, Test, and Collected images:
+
+### Training Images  
+Contain 4 images for every epoch.
+
+### Test Images  
+Contain random 4 images from model test outputs.
+
+### Collected Images  
+All images that we collected.
+
+```bash
+https://drive.google.com/drive/folders/1-1zbQlEEB7IUB__8otRJjZDmq6idIldB
+```
+
+## 6. Models
 
 Model pth files are in the link(Every model has own ipynb file)
 
