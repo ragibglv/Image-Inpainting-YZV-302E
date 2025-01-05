@@ -1,3 +1,5 @@
-best_model.pth
+best_model_transformer.pth
+best_model_AE.pth
 Transformer/
 Collected_Photo/
+UNet_Custom_Collected_Images/

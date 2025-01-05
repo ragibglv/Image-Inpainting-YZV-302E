@@ -1,0 +1,10 @@
+torch
+torchvision
+transformers
+tqdm
+numpy
+matplotlib
+Pillow
+pytorch-msssim
+ipython
+pandas
