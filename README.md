@@ -40,5 +40,5 @@ https://drive.google.com/file/d/1COzbyzNmx2hpUTht_WL1yI8FfzL7S4_p/view?usp=shari
 Model pth files are in the link(Every model has own ipynb file)
 
 ```bash
-link koy
+https://drive.google.com/file/d/1apMJpXeu1bwrzZBaDgSfKnQc1eV9VTHu/view?usp=sharing
 ```
